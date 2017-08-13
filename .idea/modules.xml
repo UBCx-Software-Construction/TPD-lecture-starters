@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Flyer2/Flyer2.iml" filepath="$PROJECT_DIR$/Flyer2/Flyer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyers/FlyerSolution.iml" filepath="$PROJECT_DIR$/Flyers/FlyerSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/FlyerStarter/FlyerStarter.iml" filepath="$PROJECT_DIR$/FlyerStarter/FlyerStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerSetInterface2/IntegerSetInterface2.iml" filepath="$PROJECT_DIR$/IntegerSetInterface2/IntegerSetInterface2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerSetInterface3/IntegerSetInterface3.iml" filepath="$PROJECT_DIR$/IntegerSetInterface3/IntegerSetInterface3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerSetInterfaceSolution/IntegerSetInterfaceSolution.iml" filepath="$PROJECT_DIR$/IntegerSetInterfaceSolution/IntegerSetInterfaceSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerSetInterfaceStarter/IntegerSetInterfaceStarter.iml" filepath="$PROJECT_DIR$/IntegerSetInterfaceStarter/IntegerSetInterfaceStarter.iml" />
+    </modules>
+  </component>
+</project>
